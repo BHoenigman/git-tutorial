@@ -1,4 +1,4 @@
-printHej Verden
-printHej
-print"Hej Univers"
-printHej Multivers
+print("Hej Verden")
+print("Hej")
+print("Hej Univers")
+print("Hej Multivers")
